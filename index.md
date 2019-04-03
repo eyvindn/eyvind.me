@@ -3,8 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Naetverk
 ---
-# Naetverk
 ## Who are you?
 Here is my [CV](assets/eyvind_cv_december_18.pdf)
 
