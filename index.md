@@ -4,3 +4,10 @@
 
 layout: home
 ---
+## [CV](assets/eyvind_cv_december_18.pdf)
+## Projects
+### [Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction](https://arxiv.org/abs/1809.00786)
+#### [Blocked Direct Feedback Alignment](assets/blocked-direct-feedback.pdf)
+#### [Densely Connected PixelCNN](assets/densely-connected-pixelcnn.pdf)
+#### [Augmentation of Blockworld](asset/saugmentation-block-world.pdf)
+
