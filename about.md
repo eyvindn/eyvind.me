@@ -4,15 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+My name is Eyvind Niklasson and I'm a machine learning engineer/data scientist and pentester (in my free time). I graduated with a B.A. and M.Eng both from Cornell University in Computer Science and I'm interested in (non-ironically) making the world a better place. While I figure out how to do that, I hope to dive into some topics that I find fascinating. Currently I'm enthralled by some of the work coming out of the the Deep Reinforcement Learning world. 
