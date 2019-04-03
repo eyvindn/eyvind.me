@@ -4,7 +4,9 @@
 
 layout: home
 ---
-## [CV](assets/eyvind_cv_december_18.pdf)
+## Who are you?
+Here is my [CV](assets/eyvind_cv_december_18.pdf)
+
 ## Projects
 ### EMNLP 2018
 #### [Mapping Instructions to Actions in 3D Environments with Visual Goal Prediction](https://arxiv.org/abs/1809.00786)
