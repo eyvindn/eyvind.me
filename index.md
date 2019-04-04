@@ -14,4 +14,4 @@ Here is my [CV](assets/eyvind_cv_december_18.pdf)
 ### Personal/Undergrad
 #### [Blocked Direct Feedback Alignment](assets/blocked-direct-feedback.pdf)
 #### [Densely Connected PixelCNN](assets/densely-connected-pixelcnn.pdf)
-#### [Augmentation of Blockworld](asset/augmentation-block-world.pdf)
+#### [Augmentation of Blockworld](assets/augmentation-block-world.pdf)
