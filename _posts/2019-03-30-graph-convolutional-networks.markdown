@@ -3,7 +3,6 @@ layout: post
 mathjax: true
 title:  "Knowledge Graph Embeddings - what are they?"
 date:   2019-03-30 11:11:11 -0400
-categories: jekyll update
 ---
 Over the past few years neural network encoders have become increasingly multi-modal. Despite being inherent universal function approximators, a great challenge in applying them to various forms of data
 is finding ways of representing this data in a manner that's conducive for the network to ingest. Some examples of such methods of going from a raw data point to an encoding or embedding are:
