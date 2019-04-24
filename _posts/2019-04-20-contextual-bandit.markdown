@@ -4,7 +4,7 @@ mathjax: true
 title:  "Contextual Bandits - what are they? (draft)"
 date:   2019-04-20 11:11:11 -0400
 ---
-###DRAFT
+### DRAFT
 
 Multi-armed bandit problems (often monickered 'bandit problems') are a well studied field of reinforcement learning. 
 
