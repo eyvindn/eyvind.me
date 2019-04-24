@@ -8,7 +8,7 @@ Over the past few years neural network encoders have become increasingly multi-m
 is finding ways of representing this data in a manner that's conducive for the network to ingest. Some examples of such methods of going from a raw data point to an encoding or embedding are:
 - word embeddings (originally word2vec, now the standard approach for any token-based NN)
 - convolutions over raw pixel data (any image ingesting NN, essentially)
-- dilated convolutions over raw waveform data (Wavenet)
+- dilated convolutions over raw waveform data ([WaveNet][wavenet-post])
 
 However, one category that hasn't seen as much publicity (and success, to some degree) is knowledge bases and/or ontologies. The difference between a knowledge base and an ontology is somewhat subtle and an area of discussion. For the purposes of this post I won't get into the weeds in this distinction. For now, I will abuse terminology and treat them as more or less the same thing.  
 
@@ -42,3 +42,4 @@ However, having an embedding of the entities in a KG is inherently useful a numb
 [jekyll-talk]: https://talk.jekyllrb.com/i
 [ontology-blog-post]: https://medium.com/predict/where-ontologies-end-and-knowledge-graphs-begin-6fe0cdede1ed
 [pezeshkpour]: https://www.aclweb.org/anthology/D18-1359
+[wavenet-post]: https://deepmind.com/blog/wavenet-generative-model-raw-audio/
