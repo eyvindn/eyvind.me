@@ -6,7 +6,7 @@ layout: home
 title: Naetverk
 ---
 ## Who are you/what do you do?
-I'm currently an AI Resident at Google working on self organising systems with [Alexander Mordvinstsev](https://znah.net/).
+I'm currently an AI Resident at Google working on self organising systems with [Alexander Mordvintsev](https://znah.net/).
 
 Here is my [CV (18/12/18)](assets/eyvind_cv_december_18.pdf).
 
