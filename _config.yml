@@ -16,9 +16,7 @@
 title: Naetverk
 email: een7@cornell.edu
 description: >- # this means to ignore newlines until "baseurl:"
-    A (as-of-yet-in-progress) collection of articles on 
-    fascinating papers in Deep Learning, Reinforcement Learning and a bit
-    about applying deep learning to graphs and ontologies. 
+    a website
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://eyvind.me/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: eyvindn
