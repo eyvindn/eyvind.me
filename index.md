@@ -2,7 +2,7 @@
 layout: home
 ---
 ## who are you / what do you do?
-I'm currently an ~~AI Resident~~ Research Engineer at Google working on self organising systems with [Alexander Mordvintsev](https://znah.net/). It's a [very exciting field](https://distill.pub/2020/growing-ca/). I've also [dabbled](https://bughunters.google.com/profile/c7fc560e-70f4-44e7-8287-0ca16ee7ea4d) in [infosec](https://www.facebook.com/whitehat/thanks/).
+I'm currently a~~n AI Resident~~ Research Engineer at Google working on self organising systems with [Alexander Mordvintsev](https://znah.net/). It's a [very exciting field](https://distill.pub/2020/growing-ca/). I've also [dabbled](https://bughunters.google.com/profile/c7fc560e-70f4-44e7-8287-0ca16ee7ea4d) in [infosec](https://www.facebook.com/whitehat/thanks/).
 
 Here is my [CV (12/02/2021)](assets/eyvind_cv_feb_2021.pdf).
 
