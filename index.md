@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Naetverk
 ---
 ## Who are you/what do you do?
 I'm currently an ~~AI Resident~~ Research Engineer at Google working on self organising systems with [Alexander Mordvintsev](https://znah.net/).
