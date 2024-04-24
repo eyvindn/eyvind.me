@@ -3,4 +3,4 @@ layout: home
 title: eyvind
 ---
 
-i work on self organising systems at Google
+i work on self organising systems
