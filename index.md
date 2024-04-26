@@ -3,4 +3,4 @@ layout: home
 title: eyvind
 ---
 
-i work on self organising systems
+building self organising systems. reach out if you are interested.
