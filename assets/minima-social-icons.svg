@@ -31,7 +31,7 @@
 </symbol>
 
 <symbol id="email" fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="1.414">
-	<g id="SVGRepo_bgCarrier" stroke-width="0"></g><g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g><g id="SVGRepo_iconCarrier"> <path fill="#000000" fill-opacity="1" stroke-width="0.2" stroke-linejoin="round" d="M 19,25L 57,25L 38,38L 19,25 Z M 38,42.75L 57,30L 57,51L 19,51L 19,30L 38,42.75 Z "></path> </g><
+	<path d="m0 0h8v6h-8zm.75 .75v4.5h6.5v-4.5zM0 0l4 3 4-3v1l-4 3-4-3z"/>
 </symbol>
 
 
