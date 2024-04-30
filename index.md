@@ -1,6 +1,6 @@
 ---
 layout: home
-title: eyvind
+title: eyvind niklasson
 ---
 
 building self organising systems. 
